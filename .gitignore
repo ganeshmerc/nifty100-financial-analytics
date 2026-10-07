@@ -1,0 +1,60 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# Environment variables
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# SQLite
+*.db
+*.sqlite
+*.sqlite3
+
+# Python test/cache
+.pytest_cache/
+.coverage
+htmlcov/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+.DS_Store
+
+# Temporary files
+*.tmp
+*.log
+
+# Excel temporary files
+~$*.xlsx
+~$*.xls
+
+# Generated outputs
+output/
+reports/tearsheets/
+reports/_tearsheet_charts/
+reports/radar_charts/
+
+# Raw source data
+data/source/
+
+# Project dump / temporary documentation
+project_dump.txt
+
+# Accidental empty files
+notepad
+python
+
+# Duplicate project document
+db/*.pdf
